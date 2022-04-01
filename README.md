@@ -32,4 +32,4 @@ Goal driven person who loves to live on the bleeding edge of technology and pass
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=S-Karthick-Raja&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Karthick-Raja&layout=compact&theme=radical&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Karthick-Raja&layout=compact&theme=radical&langs_count=4)
