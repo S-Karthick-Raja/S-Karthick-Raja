@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/karthy/image/upload/v1649523614/avatar/Coverpic-01_hyvif0.jpg" style={border-radius:"10px"}/>
+<img src="https://res.cloudinary.com/karthy/image/upload/v1649523614/avatar/Coverpic-01_hyvif0.jpg" />
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Karthick Raja S</h1>
 
 <h3>Welcome to my world! 
